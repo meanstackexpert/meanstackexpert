@@ -1,5 +1,11 @@
 <p align="center">
-<img width="1536" height="1024" alt="ChatGPT Image Jan 4, 2026, 12_47_47 AM" src="https://github.com/user-attachments/assets/77a1a358-ca34-44de-b643-dbf8122252c3" />
+  <img width="1536" height="1024" alt="ChatGPT Image Jan 4, 2026, 01_12_26 AM" src="https://github.com/user-attachments/assets/debb8de7-cefe-4996-a0a9-7d930a9df8bb" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 # 👋 Hi, I'm Sandeep — MEAN Stack Trainer & Full-Stack Developer
@@ -24,6 +30,13 @@ I help students and developers learn **Angular, Node.js, MongoDB, and TypeScript
 **Database:** MongoDB, Mongoose  
 **Tools:** Git, Postman, VS Code, Render, Vercel  
 **Other:** JWT, REST APIs, RxJS, Cloud Deployments  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=meanstackexpert&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meanstackexpert&theme=radical" />
+</p>
 
 ---
 
