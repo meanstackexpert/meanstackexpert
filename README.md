@@ -1,3 +1,7 @@
+<p align="center">
+<img width="1536" height="1024" alt="ChatGPT Image Jan 4, 2026, 12_47_47 AM" src="https://github.com/user-attachments/assets/77a1a358-ca34-44de-b643-dbf8122252c3" />
+</p>
+
 # 👋 Hi, I'm Sandeep — MEAN Stack Trainer & Full-Stack Developer
 
 Welcome to my GitHub!  
