@@ -18,7 +18,7 @@ I help students and developers learn **Angular, Node.js, MongoDB, and TypeScript
 ## 🚀 What I Do
 - Train students in **MEAN Stack** with real hands-on examples  
 - Build and share **Angular + Node.js + MongoDB** projects  
-- Publish tutorials and interview prep at **angularnodemongo.com**  
+- Publish tutorials and interview prep at **[angularnodemongo.com](https://angularnodemongo.com)** 
 - Help beginners transition into full-stack developer roles  
 - Create YouTube learning content (coming soon)
 
@@ -30,6 +30,21 @@ I help students and developers learn **Angular, Node.js, MongoDB, and TypeScript
 **Database:** MongoDB, Mongoose  
 **Tools:** Git, Postman, VS Code, Render, Vercel  
 **Other:** JWT, REST APIs, RxJS, Cloud Deployments  
+
+---
+
+## 📘 Featured Learning Repositories (Coming Soon)
+- 🅰️ [angular-basics-tutorials](https://github.com/meanstackexpert/angular-basics-tutorials)  
+- 🟩 [nodejs-api-starter](https://github.com/meanstackexpert/nodejs-api-starter)  
+- 🍃 [mongodb-crud-examples](https://github.com/meanstackexpert/mongodb-crud-examples)  
+- 🧩 [mean-stack-project](https://github.com/meanstackexpert/mean-stack-project)  
+- ❓ [angular-interview-prep](https://github.com/meanstackexpert/angular-interview-prep)  
+- ❓ [node-interview-prep](https://github.com/meanstackexpert/node-interview-prep)   
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=meanstackexpert&show_icons=true&theme=radical" />
 </p>
@@ -37,16 +52,6 @@ I help students and developers learn **Angular, Node.js, MongoDB, and TypeScript
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=meanstackexpert&theme=radical" />
 </p>
-
----
-
-## 📘 Featured Learning Repositories (Coming Soon)
-- 🅰️ Angular Basics  
-- 🟩 Node.js API Starter  
-- 🍃 MongoDB CRUD Examples  
-- 🧩 Full MEAN Stack Project  
-- ❓ Angular Interview Prep  
-- ❓ Node.js Interview Prep  
 
 ---
 
